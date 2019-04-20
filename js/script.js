@@ -18,13 +18,13 @@ function loadData() {
 
     $('#greeting').text("So, you want to live at " + address + "?");
 
-    var streetViewUrl = 'https://maps.googleapis.com/maps/api/streetview?size=600x400&location=' + address + '&key=AIzaSyCcP8InUwyPdHWNAFlMC9kuyQ-FOlRXlJc';
+    var streetViewUrl = 'https://maps.googleapis.com/maps/api/streetview?size=600x400&location=' + address + '&key=USE_YOUR_API_KEY_HERE';
 
     $body.append("<img class='bgimg' src='" + streetViewUrl + "'>");
 
     // NWT API
 
-    var urlNYT = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + cityVal +"&sort=newest&api-key=xCMiUp7Mv7TEZRTqnvG96R1f6J8ggAw2";
+    var urlNYT = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + cityVal +"&sort=newest&api-key=USE_YOUR_API_KEY_HERE";
 
     $.getJSON( urlNYT , function(data) {
 
