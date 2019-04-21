@@ -45,7 +45,7 @@ This program is heavily inspired by [Udacity class exercise](https://www.udacity
 
 Pedro Carvalho – [@PedrArch](https://twitter.com/PedroArch) – pedrofrancocarvalho@gmail.com
 
-Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
+Distributed under the MIT license. See [LICENSE](LICENSE.txt) for more information.
 
 [https://github.com/PedroArch](https://github.com/PedroArch/)
 
