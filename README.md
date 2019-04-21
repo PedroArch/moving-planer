@@ -41,7 +41,7 @@ When you fill the fields the app shows a Google Street View picture of the addre
    * First version
 
 ## Meta
-This program is heavily inspired by ![Udacity class exercise](https://www.udacity.com/course/intro-to-backend--ud171)
+This program is heavily inspired by [Udacity class exercise](https://www.udacity.com/course/intro-to-backend--ud171)
 
 Pedro Carvalho – [@PedrArch](https://twitter.com/PedroArch) – pedrofrancocarvalho@gmail.com
 
